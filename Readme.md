@@ -1,5 +1,5 @@
 ***********************************************************************
-   This is a tabu search algorithm implementation for graph coloring
+   <b>This is a tabu search algorithm implementation for graph coloring</b>
 ***********************************************************************
 
 Please read this before running the code
